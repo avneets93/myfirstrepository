@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<title>
+Avneet Singh
+</title>
+<link rel="stylesheet" type="text/css" href="Style2.css" />
+ <style>
+
+ </style>
+</head>
+<body>
+<h1 align="center">Avneet Singh</h1>
+
+<ul>
+  <li><a class="active" href="resumecool.html">Home</a></li>
+  <li><a href="summary.html">Summary</a></li>
+  <li><a href="skills.html">Skills</a></li>
+  <li><a href="experience.html">Professional Experience</a></li>
+  <li style="float:right"><a href="lotsofthings.html">Website</a></li>
+</ul>
+
+<img id="pic" src="Face.jpg" height="200" />
+<div id="summary">
+Avneet is a really cool guy. Just ask his friends.
+</div>
+
+</body>
+</html>	

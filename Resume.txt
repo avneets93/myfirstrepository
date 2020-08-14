@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+Avneet Singh
+3277 Michaud Avenue, Mississauga, ON Canada L4T 1P8
+Phone: (647) 562-9234 | Email: avneets93@gmail.com
+SUMMARY
+• 4 years of experience in IT Industry with emphasis on Quality Assurance & Software Testing. 
+• Extensive experience in analyzing the Business Requirement Documents, Functional Specification Documents, preparation of Test Scenarios, Test scripts and Test Execution, Defect tracking and management. 
+• Experience in Test Automation using Selenium.  
+Experience in different types of testing that includes Functional testing, System Integration testing, Regression testing & User Acceptance testing (UAT). 
+• Experience in VBA for Excel Macros creation. 
+• Sound knowledge of Software Development Life Cycle (SDLC) - 2.5 years of hands on experience in AGILE methodology. 
+• Thorough knowledge of Project lifecycle tools like HP ALM and JIRA. 
+• Conducted knowledge transfer sessions for new team members. 
+• Good interpersonal skills, team player, result oriented, hard working with a quest and zeal to learn new technologies. 
+
+TECHNICAL SKILLS 
+•	Testing Concepts: STLC, Test Case preparation and Execution, Defect Management
+•	Programming languages: Java, C#, VBA, PHP, HTML, JavaScript 
+•	Automation: Selenium WebDriver 
+•	Testing Tools: HP ALM, JIRA, Confluence 
+•	Database Systems: Oracle SQL, MySQL 
+•	Operating Systems: Windows, Mac and Linux
+
+PROFESSIONAL EXPERIENCE
+Test Engineer 									 June 2014- May 2018
+INFOSYS LIMITED
+PROJECT 1: Clarient Global (DTCC) 
+ The project scope was to create a web based application to collect, validate and permission, client data and documents, in a standardized way. The application was built using Angular JS for UI, JAVA in the backend and Oracle database.
+•	Developed Test Approach, involved in Test plan creation, analyzed Functional Specification and BRD.
+•	Created and Modified Test Scenarios and Test Cases. 
+•	Executed, Monitored and Tracked Test cases.
+•	Prepared and executed Regression Test Cases at the end of each release.
+•	Prepared Automation scripts for Regression Tests using Selenium.
+•	Managed the Traceability matrix.
+•	Maintained Defect Log.
+•	Prepared Daily Status Report and Weekly Status Report, participated in daily Scrum meetings with client and Status meetings with onsite team members.
+PROJECT 2: ICB Central Test Management (RBS)	
+The ICB is a large Programme of RBS, made up of many Franchises and Functions (F&F).  As the changes required for this Programme are impacting many F&Fs, Central Test Management team provides Test Design, Test Assurance and Test Management roles to support the testing.
+•	Maintained the delivery Event List tracker which involved coordinating with various F&Fs, Goal Leads and Implementation team, to modify, add and remove the various technology deliveries taking place in the ICB Programme.
+•	Automated RFTS Dashboard which gets updated as per the latest DEL, Assurance tracker and AIA document, and updates overall status, which reduced the overall manual effort- it was appreciated by client and also included as a Zero Distance contribution.
+•	Performed Test completeness checks on Test documents- SITs, TCRs, TICs etc., of DEL events which included validating their Functional scope, UAT engagement, Interface coverage, schedule compliance and Risk resolution.
+EDUCATION
+Bachelor of Engineering in Electronics & Communication 					    2014
+THAPAR UNIVERSITY- India
+ACTIVITIES & ACHIEVEMENTS
+•	Appreciated by client and Infosys management for creating an automated tool using VBA in Excel to update a Project deliverable, saving significant amount of money and manual effort.
+•	“Best Team” award for the innovations and outstanding performance in the projects. 
+•	Certified Infosys Selenium automation tester.
+</html>

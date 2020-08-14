@@ -1,0 +1,41 @@
+Borders
+--------------
+<style type="text/css">
+
+h2{background-color:yellow;
+padding:15px;
+border-color:red;
+border-width:3px;
+border-style:dashed;
+
+border-top-color:green;
+
+}
+
+p{
+margin:2px;
+}
+
+a:link{color:red;
+text-decoration:none;
+}
+a:visited{color:green;
+}
+a:hover{
+background-color:blue;
+text-decoration:underline;
+font-weight:weight;
+}
+a:active{
+background-color:orange;
+}
+
+</style>
+
+css box model-
+margin
+border
+padding
+
+
+<link rel="stylesheet" type="text/css" href="filename.css" />

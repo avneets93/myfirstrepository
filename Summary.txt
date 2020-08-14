@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<title>
+Avneet Singh
+</title>
+<link rel="stylesheet" type="text/css" href="Style2.css" />
+</head>
+<body>
+<h1 align="center">Avneet Singh</h1>
+
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#summary">Summary</a></li>
+  <li><a href="#experience">Professional Experience</a></li>
+  <li style="float:right"><a href="#site">Website</a></li>
+</ul>
+
+<img id="pic" src="Face.jpg" height="200" />
+<div id="summary">
+<br />
+<h4>SUMMARY</h4>
+<ul>
+<li> 4 years of experience in IT Industry with emphasis on Quality Assurance & Software Testing. </li>
+<li> Extensive experience in analyzing the Business Requirement Documents, Functional Specification Documents, preparation of Test Scenarios, Test scripts and Test Execution, Defect tracking and management.</li>
+<li> Experience in Test Automation using Selenium.</li>
+<li> Experience in different types of testing that includes Functional testing, System Integration testing, Regression testing & User Acceptance testing (UAT). </li>
+<li> Experience in VBA for Excel Macros creation.</li>
+<li> Sound knowledge of Software Development Life Cycle (SDLC) - 2.5 years of hands on experience in AGILE methodology. </li>
+<li> Thorough knowledge of Project lifecycle tools like HP ALM and JIRA. </li>
+<li> Conducted knowledge transfer sessions for new team members. </li>
+<li> Good interpersonal skills, team player, result oriented, hard working with a quest and zeal to learn new technologies. </li>
+</ul>
+
+<table align="center" border="1" width="absolute" cellpadding="4" cellspacing="0">
+<tr><th colspan='2'>TECHNICAL SKILLS </th></tr>
+<tr><th>Testing Concepts:</th><td> STLC, Test Case preparation and Execution, Defect Management</td></tr>
+<tr><th>Programming languages:</th><td> Java, C#, VBA, PHP, HTML, JavaScript </td></tr>
+<tr><th>Automation:</th><td> Selenium WebDriver </td></tr>
+<tr><th>Testing Tools:</th><td> HP ALM, JIRA, Confluence </td></tr>
+<tr><th>Database Systems:</th><td> Oracle SQL, MySQL </td></tr>
+<tr><th>Operating Systems:</th><td> Windows, Mac and Linux</td></tr>
+</table>
+</div>
+
+</body>
+</html>	

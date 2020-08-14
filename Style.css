@@ -1,0 +1,34 @@
+
+body{font-family:arial;
+}
+h4{
+text-align:center;
+margin:0px;
+}
+ol{line-height:150%;
+}
+h1{text-align: center;
+}
+	a:link{color:red;
+	text-decoration:none;
+	}
+	a:visited{color:green;
+	}
+	a:hover{
+	background-color:blue;
+	color:white;
+	text-decoration:none;
+	font-weight:weight;
+	}
+	a:active{
+	background-color:orange;
+	}
+	h5{text-align: center;
+	margin:0px;
+	}
+	ul{list-style-image:url(tick_circle.png);
+	div{text-align: center;
+	position:absolute; 	
+	line-height:150%;
+	}
+	
